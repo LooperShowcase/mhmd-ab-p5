@@ -49,6 +49,6 @@ function draw() {
 
   text(6, 0, 170);
   text(9, 0, 100);
-text (3,0,190):
+  text (3,0,190);
 
 }
